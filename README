@@ -1,0 +1,4 @@
+Test this by running:
+
+curl -F "file=@conf/dependencies.yml;type=text/plain" http://localhost:9000/upload
+
